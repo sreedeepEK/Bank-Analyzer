@@ -1,3 +1,5 @@
+### Overview
+
 This repository contains an analytical project designed to extract and interpret crucial financial data from banking operations. By employing SQL queries, the project delves into various data points to uncover significant trends and metrics. The results are visualized using Power BI, with clear and comprehensive graphics provided in PNG format to enhance understanding and facilitate data-driven decisions.
 
 ### Key Features:
